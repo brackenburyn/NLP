@@ -1,0 +1,1 @@
+To run tts.py, first run CMU_parser.py, then run tts.py with the sentence to be synthesized as the first and only argument.

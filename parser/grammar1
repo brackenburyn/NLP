@@ -1,0 +1,10 @@
+# grammar1, a sample grammar
+S -> NP VP
+NP -> DET NP
+VP -> VP PP
+PP -> P NP
+NP -> john
+VP -> walked
+DET -> the
+NP -> store
+P -> to
